@@ -1,0 +1,19 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "VC Web Apps - objects manipulation module",
+  "main": "object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "objects",
+    "object",
+    "literals"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

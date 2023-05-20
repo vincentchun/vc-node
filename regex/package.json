@@ -1,0 +1,17 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "VC Web Apps - regex module",
+  "main": "regex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "regex"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

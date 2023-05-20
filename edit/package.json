@@ -1,0 +1,17 @@
+{
+  "name": "edit",
+  "version": "1.0.0",
+  "description": "VC Web Apps edit model instance",
+  "main": "edit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "edit"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

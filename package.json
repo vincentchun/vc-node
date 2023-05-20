@@ -1,0 +1,10 @@
+{
+  "name": "VC",
+  "version": "2020.11.05",
+  "description": "VC Web Apps - framework for Node.js & Express.js",
+  "main": "index.js",
+  "repository": "vclearning.org",
+  "author": "Vincent Chun",
+  "license": "VC Learning",
+  "private": true
+}

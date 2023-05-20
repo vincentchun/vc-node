@@ -1,0 +1,17 @@
+{
+  "name": "display",
+  "version": "1.0.0",
+  "description": "VC Web Apps display model instance",
+  "main": "display.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "display"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

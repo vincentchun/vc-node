@@ -1,0 +1,17 @@
+{
+  "name": "fields",
+  "version": "1.0.0",
+  "description": "VC Web Apps model fields",
+  "main": "fields.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "fields"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

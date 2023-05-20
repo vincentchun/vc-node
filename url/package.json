@@ -1,0 +1,17 @@
+{
+  "name": "vc.url",
+  "version": "1.0.0",
+  "description": "VC Web Apps - URL module",
+  "main": "url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "URL"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.TXT"
+}

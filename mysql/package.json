@@ -1,0 +1,17 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "VC Web Apps MySQL module",
+  "main": "mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "MySQL"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

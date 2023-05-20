@@ -1,0 +1,17 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "VC Web Apps array processors",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VC",
+    "Web",
+    "Apps",
+    "array"
+  ],
+  "author": "Vincent Chun",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}
